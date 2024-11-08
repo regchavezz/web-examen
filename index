@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo de errores</title>
+     <link rel="stylesheet" type="text/css" href="URL">
+ 
+ 
+ </header>
+
+        <div class="image-container">
+            <img src="imagen-ejemplo.jpg" alt="Descripción de la imagen">
+            <p>Esta es una imagen de ejemplo.</p>
+        </div>
+
+        <main>
+            <h2>Lista de elementos</h2>
+            <ul>
+                <li>Elemento 1</li>
+                <li>Elemento 2</li>
+                <li>Elemento 3</li>
+                            <ul>
+
+            <h2>Descripción de los elementos</h2>
+            <p>Los elementos listados arriba son ejemplos de cómo se puede estructurar una lista en HTML.</p>
+        </main>
+
+        <footer class="footer">
+            <p>&copy; 2024 Mi Página Web</p>
+        <footer>
+    </div>
+
+   
+</body>
+</html>
